@@ -1,0 +1,23 @@
+{
+    "phoneNumber": "+62 821 7377 6770",
+    "scamType": "impersonate",
+    "descriptions": "Pelaku mengaku atas nama orang lain untuk menipu",
+    "isVerified": true,
+    "attachments": null,
+    "checking": [
+        {
+            "kredibel": {
+                "found": false,
+                "data": null
+            },
+            "cekRekeningId": {
+                "found": false,
+                "data": null
+            },
+            "aduanNomorId": {
+                "found": false,
+                "data": null
+            }
+        }
+    ]
+}
