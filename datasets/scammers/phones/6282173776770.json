@@ -1,7 +1,8 @@
 {
-    "phoneNumber": "+62 821 7377 6770",
+    "phoneNumber": "6282173776770",
     "scamType": "impersonate",
-    "descriptions": "Pelaku mengaku atas nama orang lain untuk menipu",
+    "scamVia": "chat",
+    "descriptions": "Pelaku mengaku atas nama orang lain untuk menipu ke korban lainnya",
     "isVerified": true,
     "attachments": null,
     "checking": [
@@ -19,5 +20,6 @@
                 "data": null
             }
         }
-    ]
+    ],
+    "meta": {}
 }
